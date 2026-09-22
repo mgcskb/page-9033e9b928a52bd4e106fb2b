@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a2e0f5f2f222aa72dfffac42",
+  "owner": "mgcskb",
+  "repo": "page-9033e9b928a52bd4e106fb2b",
+  "title": "Novabroad",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9033e9b928a52bd4e106fb2b",
+      "a": "Novabroad",
+      "b": "稳定全球clash加速器",
+      "entity": "Novabroad",
+      "brand": "Novabroad",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4f354ac1d105fbc378454de6479523e291b83f167f146830478e0f5ff0c18094",
+      "content": {
+        "primary_entity": "Novabroad",
+        "keyword1": "Novabroad",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，Novabroad 面向需要稳定海外连接的 Clash 用户，提供基础版、旗舰版和团队版三档订阅，月付与年付均可选。流量从每月 100GB 到 1000GB，同时在线设备从 3 台到 20 台，覆盖个人日常、多设备办公和团队协作场景。",
+          "AI_HERO_SUBTITLE": "Novabroad 多设备 Clash 订阅",
+          "AI_HERO_INTRO": "Novabroad 为 Clash 客户端提供多档海外加速订阅，按流量和同时在线设备数区分版本。基础版适合轻度使用，旗舰版适合多设备流媒体与游戏场景，团队版面向高带宽和多终端协同需求，年付价格更划算。",
+          "AI_VISUAL_TITLE": "Novabroad Clash 加速订阅",
+          "AI_HIGHLIGHT_1": "三档流量灵活选",
+          "AI_HIGHLIGHT_2": "设备数量按需匹配",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURES_INTRO": "按使用人数、流量和设备数量挑选合适的 Novabroad 订阅版本。",
+          "AI_FEATURE_TITLE_1": "订阅周期选择",
+          "AI_FEATURE_TEXT_1": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_2": "设备并发数量",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖手机、电脑和路由器等终端。",
+          "AI_FEATURE_TITLE_3": "流量档位区分",
+          "AI_FEATURE_TEXT_3": "每月 100GB、300GB、1000GB 三档，按日常用量选择避免浪费。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，Windows 可选 Clash Verge、macOS 可选 ClashX、Android 可选 Clash Meta for Android、iOS 可选 Stash 或 Shadowrocket。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850，按设备数和流量需求选择。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备适配，最后在客户端导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统是否支持所选 Clash 客户端，并留意同时在线设备数限制。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_3": "打开对应 Clash 客户端，按客户端文档导入订阅地址，完成节点配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好订阅再连接",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选择 Novabroad 版本，完成客户端配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。按人数与流量选即可。",
+          "AI_FAQ_ANSWER_2": "按年付分别为 ¥150/年、¥350/年、¥850/年，相比月付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_3": "旗舰版含 IPLC 专线，对游戏加速与高带宽场景做了优化；团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中粘贴订阅链接并更新节点列表，具体步骤参见所选客户端的文档说明。",
+          "AI_FAQ_ANSWER_5": "旗舰版有 7x24 优先工单支持，团队版含专属客户经理服务，可按需选择。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量怎么选？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_3": "IPLC 专线适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "遇到问题可以获取哪些支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "taiweibo02.cn",
+    "host": "taiweibo02.cn"
+  },
+  "file_hashes": {
+    "index.html": "56a9b53722375baeeffac29729451120c00ad9bc1279e8f04d0604445030cc1b",
+    "sitemap.xml": "35dba6a205954992a1282a3daabe5748329a0f4fb8042abf150a448a1a994597",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4817a0ae23c020301f40ec4c068597a4aee88982c104a2781e79f784139821a6",
+    "robots.txt": "64ca701dc9252129f7455261a949bf2d548ab2b08108dfee0151973ae40ccc02",
+    "f0db116a16e4b6013b4f4c09f353d6b9.txt": "eb3fa110aa4086d8905a1f60c6aa0affdd54cd07892a90bb418a627308eb6aa8"
+  },
+  "revision": "24a01852c20a5e221d41d9d791009c245e5a4a98782978791cf97065ecfcfc89"
+}
